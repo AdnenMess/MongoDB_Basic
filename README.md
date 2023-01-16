@@ -10,4 +10,6 @@ To install the container from docker compose :
 
 ### 2. MongoDB Shell Commands Cheat Sheet
 
-[MongoDB Cheat Sheet](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c)
+- [MongoDB Cheat Sheet](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c)
+
+- To use the CLI from the shell for mongoDB 6.0, type `mongosh` 
